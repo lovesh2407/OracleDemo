@@ -1,0 +1,13 @@
+syntax = "proto3";
+package lovesh2407.OracleDemo.OracleDemo;
+
+// this line is used by starport scaffolding # proto/tx/import
+
+option go_package = "github.com/lovesh2407/OracleDemo/x/OracleDemo/types";
+
+// Msg defines the Msg service.
+service Msg {
+    // this line is used by starport scaffolding # proto/tx/rpc
+}
+
+// this line is used by starport scaffolding # proto/tx/message
